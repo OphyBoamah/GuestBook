@@ -1,0 +1,12 @@
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/obj/Debug/netcoreapp3.1/GuestsReworked.Api.csprojAssemblyReference.cache
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/obj/Debug/netcoreapp3.1/GuestsReworked.Api.AssemblyInfoInputs.cache
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/obj/Debug/netcoreapp3.1/GuestsReworked.Api.AssemblyInfo.cs
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/obj/Debug/netcoreapp3.1/GuestsReworked.Api.csproj.CoreCompileInputs.cache
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/bin/Debug/netcoreapp3.1/GuestsReworked.Api.deps.json
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/bin/Debug/netcoreapp3.1/GuestsReworked.Api.runtimeconfig.json
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/bin/Debug/netcoreapp3.1/GuestsReworked.Api.runtimeconfig.dev.json
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/bin/Debug/netcoreapp3.1/GuestsReworked.Api.dll
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/bin/Debug/netcoreapp3.1/GuestsReworked.Api.pdb
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/obj/Debug/netcoreapp3.1/GuestsReworked.Api.dll
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/obj/Debug/netcoreapp3.1/GuestsReworked.Api.pdb
+/Users/opheliaboamahampoh/Documents/Dev/C#/Mine/MockProject/GuestsReworked/GuestsReworked.Api/obj/Debug/netcoreapp3.1/GuestsReworked.Api.genruntimeconfig.cache
